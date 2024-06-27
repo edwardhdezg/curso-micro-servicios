@@ -16,7 +16,7 @@
 
     <modules>
         <module>msvc-usuarios</module>
-        <module>mvsc-crusos</module>
+        <module>msvc-cursos</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
